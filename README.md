@@ -38,5 +38,12 @@ curl "http://localhost:3333/users" -H "Content-Type: application/json"  --data '
 Check the mailtrap to see if the email arrived.
 ![Mailtrap_03](./docs/screenshots/mailtrap_03.png)
 
+
+# BullBoard
+Go to **http://localhost:3333/admin** to see the BullBoard.
+![BullBoard](./docs/screenshots/screenshot_03.png)
+
+
 # References
-[Youtube Tutorial](https://www.youtube.com/watch?v=uonKHztGhko)
+* [Youtube Tutorial](https://www.youtube.com/watch?v=uonKHztGhko)
+* S[Bull](https://github.com/OptimalBits/bull)
